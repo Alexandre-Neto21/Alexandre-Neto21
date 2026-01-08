@@ -1,7 +1,7 @@
 
 <h1 align="center">Olá 👋, Eu sou Alexandre Neto</h1>
 <h3 align="center">Analytics Engineer</h3>
-<p align="center">Analytics Engineering com formação em Engenharia Mecânica e experiência prática no desenvolvimento de soluções analíticas end-to-end utilizando modern data stack. </p>
+<p align="center">Analytics Engineer com formação em Engenharia Mecânica e experiência prática no desenvolvimento de soluções analíticas end-to-end utilizando modern data stack. </p>
 
 
 - 🔭 Atualmente, estou desenvolvendo meus conhecimentos em Analytics Engineer e buscando transição de carreira para Analytics Engineer.
